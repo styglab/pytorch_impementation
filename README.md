@@ -2,9 +2,10 @@
 
 FCN (basic pipeline)
 
-CNN
+CNN (basic pipeline)
 
-LeNet
-VGG
+LeNet (class)
+
+VGG (class)
 
 @ thanks to aladdin!
