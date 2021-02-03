@@ -24,4 +24,4 @@ using learning rate scheduler
 weight initialization
 
 -------------------------------
-@ thanks to aladdin!
+@ thanks to aladdin
